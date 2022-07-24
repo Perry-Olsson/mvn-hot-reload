@@ -1,2 +1,2 @@
 #!/bin/bash
-mvn -pl api -am spring-boot:run
+./mvnw -pl api -am spring-boot:run
